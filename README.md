@@ -1,3 +1,5 @@
+![Logo do Transformers](./TransformersLogo.webp)
+
 ### Código Python para Tradução com MarianMT
 
 ```python
